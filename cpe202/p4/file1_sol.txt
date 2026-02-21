@@ -1,0 +1,12 @@
+ago: 2
+correctly: 3
+earthquake: 1
+fourscore: 2
+handled: 3
+quicksort: 1
+seven: 2
+stop: 3
+topology: 1
+washington: 2
+words: 3
+years: 2
