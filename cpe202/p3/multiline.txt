@@ -1,3 +1,0 @@
-This is an example
-of an input file
-with multiple lines.
