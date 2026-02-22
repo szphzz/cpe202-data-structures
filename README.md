@@ -1,4 +1,4 @@
-# CPE 202 Data Structures, Winter 2022
+# CPE 202 Data Structures
 
 This repo consists of labs and projects.
 
