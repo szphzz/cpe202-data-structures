@@ -1,0 +1,8 @@
+african: 2
+american: 2
+consuming: 2
+earthquake: 2
+line: 1
+punctuation: 1
+quicksorts: 2
+time: 2
